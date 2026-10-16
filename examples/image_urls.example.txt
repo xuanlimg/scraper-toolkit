@@ -1,0 +1,5 @@
+# 图片下载列表示例：每行一条，支持 "#" 注释
+# 也支持 “链接|自定义文件名” 的写法
+https://i.pximg.net/img-original/img/2024/01/01/00/00/00/12345678_p0.jpg
+https://www.pixiv.net/artworks/12345678
+# https://i.pximg.net/img-original/example_p0.jpg|我的封面
