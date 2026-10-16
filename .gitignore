@@ -1,0 +1,20 @@
+# 运行产物：下载的图片 / 视频 / 音频 / 小说
+downloads/
+image_urls.txt
+
+# 临时文件
+*.part
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 编辑器与系统文件
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
